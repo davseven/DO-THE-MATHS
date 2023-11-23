@@ -34,4 +34,4 @@ while ("True"):
         print ("SEE YOU! HAVE A NICE DAY!")
         break
     else:
-        print ("Unknow command, TRAY AGAIN PLEASE!")
+        print ("Unknow command, TRY AGAIN PLEASE!")
